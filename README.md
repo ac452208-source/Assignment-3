@@ -40,7 +40,7 @@ Your goal is to guess the number before your chances run out!
 
    “Too Low!” → if your guess is less than the secret number
 
-   “Correct!” 🎉 → if your guess matches the number
+   “Correct!”  → if your guess matches the number
 
 3. Chances System
 
